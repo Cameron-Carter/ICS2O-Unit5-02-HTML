@@ -1,0 +1,14 @@
+.body {
+  background-color:black;
+  color:lightgrey;
+  font-size:150%;
+}
+.h1 {
+  text-align:center;
+  font-family:impact;
+  font-size:300%;
+}
+.form {
+  color:white;
+  border:6px double powderblue;
+}
